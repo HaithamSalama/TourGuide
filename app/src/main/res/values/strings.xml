@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!--Tabs Name-->
+    <string name="alex">Alex</string>
+    <string name="cairo">Cairo</string>
+    <string name="guiza">Guiza</string>
+    <string name="aswan">Aswan</string>
+    <!--Alex places-->
+    <string name="qaitbay">Qaitbay Castle</string>
+    <string name="montaza">Montazah Park</string>
+    <string name="antoniads">Antoniads Park</string>
+    <string name="alexLibrary">Alex Library</string>
+    <string name="alexMuseum">Alex Museum</string>
+    <string name="stanlyBridge">Stanly Bridge</string>
+    <string name="rasTein">Ras El-Tein Pallace</string>
+    <string name="cleopatra">Cleopatra Underwater Palace</string>
+    <string name="aboAbas">Abo El-Abas Mosque</string>
+    <!--Alex places description-->
+
+    <string name="qaitbayDes">15th-century defensive fortress located on the Med. sea coast, in Alexandria.</string>
+    <string name="montazaDes">It was built on a low plateau east of central Alexandria overlooking a beach on the Med. Sea.</string>
+    <string name="antoniadsDes">A palace in Alexandria, named after John Antoniadis, who was an Alexandrian Greek. He was president of the Greek Community in Alexandria and consul general of Belgium.</string>
+    <string name="alexLibraryDes">One of the most significant libraries of the ancient world. It was dedicated to the Muses, the nine goddesses of the arts.</string>
+    <string name="alexMuseumDes">It was inaugurated the 31 December 2003 by Hosni Mubarak and it is located in a renovated Italian style palace in Tariq Al-Horreya Street.</string>
+    <string name="stanlyBridgeDes">A neighborhood near the city centre of Alexandria. The bridge has a total length of 400 meters with 6 spans on the Corniche.</string>
+    <string name="rasTeinDes">A palace on the coast of the Med. Sea in Alexandria. It is one of the official residences for a serving President of Egypt. Under the Muhammad Ali Dynasty of Egypt.</string>
+    <string name="cleopatraDes">The earthquake and tsunami that sank the island of Antirhodos occurred a few centuries after Cleopatra’s death, scattering the palace under about 10m of water in a bay.</string>
+    <string name="aboAbasDes">The Abu al-Abbas Mosque is an Egyptian mosque in the city of Alexandria. It\'s dedicated to the 13th century Alexandrine Sufi saint Abul Abbas, whose tomb it contains.</string>
+
+    <!--Aswan Places-->
+    <string name="highDam">High Dam</string>
+    <string name="nileMuseum">Nile Museum</string>
+    <string name="nubeMuseum">Nubian Museum</string>
+    <string name="fryalGarden">Fryal Garden</string>
+    <string name="aboSemple">Abu Simbel Temples</string>
+    <string name="karnak">Karnak Temple Complex</string>
+    <string name="kingsValley">Kings Valley</string>
+    <string name="kebashRoad">Kebash Road</string>
+
+    <!--Aswan Places description-->
+    <string name="highDamDes">An embankment dam built across the Nile in Aswan, between 1960–1970. Its significance largely eclipsed the previous Aswan Low Dam initially completed in 1902.</string>
+    <string name="nileMuseumDes">The Nile Museum exhibits antique items that tell of the waterway\'s history that illustrate the development of irrigation techniques since Ottoman rule.</string>
+    <string name="nubeMuseumDes">An archaeological museum located in Aswan. Dedicated to Nubian culture and civilization.</string>
+    <string name="fryalGardenDes">Located at the south end of the Nile Corniche. The park has paved walkways that run along the east bank of the Nile and up high on Elephantine Island. </string>
+    <string name="aboSempleDes">The twin temples were carved out of the mountainside in the 13th century BC, during the 19th dynasty reign of the Pharaoh Ramesses II.</string>
+    <string name="karnakDes">Construction at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic period.</string>
+    <string name="kingsValleyDes">A valley in Egypt where, for a period from the 16th to 11th century BC, rock cut tombs were excavated for the Pharaohs and powerful nobles of the New Kingdom.</string>
+    <string name="kebashRoadDes"> The 5,000 year-old Kebash Road in Luxor, which links the Karnak and Luxor temples. It\'s full of statues on sides</string>
+
+    <!--Cairo Places-->
+    <string name="cairoTower">Cairo Tower</string>
+    <string name="salahCastle">Salah El-Dein Castle</string>
+    <string name="azharPark">Azhar Park</string>
+    <string name="egyptianMuseum">Egyptian Museum</string>
+    <string name="hangingChurch">Hanging Church</string>
+    <string name="fortBabylon">Fort Babylon</string>
+    <string name="khanElKhalili">Khan el-Khalili</string>
+    <string name="tahrirSquare">Tahrir Sq.</string>
+
+    <!--Cairo Places description-->
+    <string name="cairoTowerDes">A free-standing concrete tower located in Cairo. At 187 m, it has been the tallest structure in Egypt and North Africa for about 50 years.</string>
+    <string name="salahCastleDes">A medieval Islamic fortification in Cairo. The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city.</string>
+    <string name="azharParkDes">This park is listed as one of the world\'s sixty great public spaces. The park was created by the Historic Cities Support Programme of the Aga Khan Trust for Culture.</string>
+    <string name="egyptianMuseumDes">Is a home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display, the remainder in storerooms.</string>
+    <string name="hangingChurchDes">Is one of the oldest churches in Egypt and the history of a church in the 3rd century. It is named for its location above a gatehouse of Babylon Fortress.</string>
+    <string name="fortBabylonDes">An ancient fortress in the Delta of Egypt, located in Coptic Cairo. It was situated in the Heliopolite Nome, upon the east bank of the Nile, near the commencement of the Pharaonic Canal. </string>
+    <string name="khanElKhaliliDes">A major souk in the historic center of Islamic Cairo. The bazaar district is one of Cairo\'s main attractions for tourists and Egyptians alike.</string>
+    <string name="tahrirSquareDes">A major public town square in Downtown Cairo, Egypt. The square has been the location for political demonstrations in Cairo, most notably those that led to the 2011 Egyptian revolution.</string>
+
+    <!--Guiza Places-->
+    <string name="guizaPyramids">Guiza Pyramida</string>
+    <string name="saqqaraPyramid">Saqqara Pyramid</string>
+    <string name="pharonicVillage">Pharonic Village</string>
+    <string name="tombOfTi">Tomb Of Ti</string>
+    <string name="tahaHussinMuseum">Taha Hussin Museum</string>
+    <string name="ahmedShawkyMuseum">Ahmed Shawky Museum</string>
+    <string name="pharonicNileShip">Pharonic Nile Ship</string>
+    <string name="dahshourPyramid">Dahshour Pyramid</string>
+
+    <!--Guiza Places description-->
+    <string name="guizaPyramidsDes">The 3 most famous Egyptian pyramids. The Pyramid of Khufu at Giza is the largest Egyptian pyramid. It is the only one of the Seven Wonders of the Ancient World still in existence.</string>
+    <string name="saqqaraPyramidDes">Djoser\'s step pyramid was built during the Third Dynasty. Another 16 Egyptian kings built pyramids at Saqqara, which are now in various states of preservation or dilapidation.</string>
+    <string name="pharonicVillageDes">An experience like no other. The instant you begin sailing down the canals that circuit through the island you are immersed totally in the Egypt of history and legend. </string>
+    <string name="tombOfTiDes">The Mastaba of Ti is the tomb of a court official who served three kings during the 5th Dynasty. It is perhaps the grandest and most detailed private tomb at Saqqara.</string>
+    <string name="tahaHussinMuseumDes">A historic house museum and biographical museum in Guiza.It is about the life, teaching, and residence of Taha Hussein who was one of the most influential Egyptian writers</string>
+    <string name="ahmedShawkyMuseumDes">Named after the poet Ahmed Shawki (1869–1932). After returning to Egypt, he built a new house at Giza which he named the new Karmet Ibn Hani. It was officially opened on June 1977.</string>
+    <string name="pharonicNileShipDes">The Pharaohs cruising restaurants are two masterpieces on the River Nile. Step aboard one of our boats and treat yourself to a two-hour escape in Pharaonic splendour.</string>
+    <string name="dahshourPyramidDes">It was an extremely important learning experience for the Egyptians. It provided them with the knowledge and know-how to transition from step-sided to smooth-sided pyramids.</string>
+</resources>
